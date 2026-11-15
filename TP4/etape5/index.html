@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TP4 Etape 5</title><link rel="stylesheet" href="style.css"></head>
+<body><div id="form_container"><div id="form_person">
+<input type="text" id="nom" placeholder="Nom">
+<input type="text" id="prenom" placeholder="Prénom">
+<input type="number" id="points" placeholder="Points">
+<button class="btn-add" onclick="doNewData()">Ajouter</button>
+</div><div id="table_container">
+<table id="persons_table"><thead><tr><th>N°</th><th>Nom</th><th>Prénom</th><th>Points</th><th>Select</th></tr></thead>
+<tbody></tbody></table><div id="summary"><span id="line_count">0 ligne(s)</span> | Total point(s) = <span id="total_points">0</span></div><div id="container_btn"><button class="btn-consol" onclick="consoleTableau()">Console Tableau</button></div></div></div><script src="script.js"></script></body></html>

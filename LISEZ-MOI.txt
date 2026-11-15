@@ -1,0 +1,13 @@
+SOLUTION DES PDF FOURNIS
+
+TP3 : exo1, exo2 et exo3. Ouvrir chaque index.html dans un navigateur.
+Les sorties sont dans la console du navigateur (F12 > Console).
+
+TP4 : etape1 à etape6. Chaque dossier est une version autonome.
+Etape 6 contient l'application CRUD complète : affichage, ajout, résumé,
+console et suppression des lignes sélectionnées.
+
+Les PDF demandent des commentaires avec les numéros des slides du cours.
+Ces numéros ne sont pas présents dans les deux PDF fournis : ajoutez-les
+selon votre support de cours. La consigne générale du TP4 demande aussi
+3 fonctionnalités supplémentaires au choix, sans les préciser.
